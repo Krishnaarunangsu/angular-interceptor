@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-interceptor"
+    }
+  },
+  "defaultProject": "angular-interceptor",
+  "cli": {
+    "analytics": "5f2b368f-0182-47d7-9b80-5028773fd9c4"
+  }
 }
